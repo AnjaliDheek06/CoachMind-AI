@@ -1,0 +1,14 @@
+# =========================
+# CoachMind AI - Root Gitignore
+# =========================
+
+# Old Git repository backup
+backend/.git_old_backup/
+
+# Root editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
